@@ -1,5 +1,5 @@
-**﻿Task 3:SQL FOR DATA ANALYSIS
-**
+﻿Task 3:SQL FOR DATA ANALYSIS
+
 Customer & Orders Database: 
  
 •	I made a simple SQL database with Customers and Orders tables. 
@@ -35,6 +35,7 @@ INCLUDED FILES:
 1.Screenshort.pdf
 
 2.Readme.md
+
 
 
 
