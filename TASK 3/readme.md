@@ -1,11 +1,15 @@
-﻿Task 3:SQL FOR DATA ANALYSIS
+**﻿Task 3:SQL FOR DATA ANALYSIS
 
 Customer & Orders Database: 
  
 •	I made a simple SQL database with Customers and Orders tables. 
+
 •	Customers has CustomerID, CustomerName, and City. 
-•	Orders has OrderID, CustomerID, Product, Amount, and OrderDate. 
-•	CustomerID in Orders links to Customers so the data stays connected. 
+
+•	Orders has OrderID, CustomerID, Product, Amount, and OrderDate.
+
+•	CustomerID in Orders links to Customers so the data stays connected.
+
 •	I also created a view called OrderSummary to quickly see which customer bought what, and an index on City in Customers to make searching faster. 
  
 Some of the things I did with this database: 
@@ -31,4 +35,5 @@ INCLUDED FILES:
 1.Screenshort.pdf
 
 2.Readme.md
+
 
