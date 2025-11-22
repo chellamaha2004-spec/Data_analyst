@@ -28,5 +28,7 @@ Basically, I created the tables, added some data, made a view and index, and the
 
 INCLUDED FILES:
 
-Screenshort.pdf
-Readme.md
+1.Screenshort.pdf
+
+2.Readme.md
+
